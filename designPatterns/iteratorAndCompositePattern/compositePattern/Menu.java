@@ -1,6 +1,5 @@
 package designPatterns.iteratorAndCompositePattern.compositePattern;
 
-import designPatterns.iteratorAndCompositePattern.compositePattern.MenuComponent;
 import designPatterns.iteratorAndCompositePattern.compositePattern.iterator.CompositeIterator;
 
 import java.util.ArrayList;
