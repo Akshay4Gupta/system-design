@@ -1,4 +1,4 @@
-package designPatterns.observerPattern.UberCli;
+package designPatternExamples.UberCli;
 
 public class User {
     String currentCity;

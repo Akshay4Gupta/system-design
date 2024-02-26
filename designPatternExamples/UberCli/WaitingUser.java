@@ -1,4 +1,4 @@
-package designPatterns.observerPattern.UberCli;
+package designPatternExamples.UberCli;
 
 import java.util.HashMap;
 import java.util.LinkedList;
